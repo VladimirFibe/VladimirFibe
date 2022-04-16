@@ -35,8 +35,8 @@ width="32%" >
 <a href="https://github.com/VladimirFibe/Workouts">
 <img align="left" alt="Workouts" height="40px" src="https://github.com/VladimirFibe/Workouts/blob/main/Workouts/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
-<a href="https://github.com/VladimirFibe/Workouts">
-<img align="left" alt="Workouts" height="40px" src="https://github.com/VladimirFibe/Workouts/blob/main/Workouts/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+<a href="https://github.com/VladimirFibe/Shtab">
+<img align="left" alt="Shtab" height="40px" src="https://github.com/VladimirFibe/Shtab/blob/main/Shtab/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
 <a href="https://github.com/VladimirFibe/PerfectEggTimer">
 <img align="left" alt="PerfectEggTimer" height="40px" src="https://github.com/VladimirFibe/PerfectEggTimer/blob/main/PerfectEggTimer/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
