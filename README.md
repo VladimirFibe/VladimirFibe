@@ -26,3 +26,6 @@ width="32%" >
 <a href="https://github.com/VladimirFibe/Xylophone">
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/VladimirFibe/Xylophone/blob/main/Xylophone/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
+<a href="https://github.com/VladimirFibe/Xylophone">
+<img align="left" alt="Calculator" height="40px" src="https://github.com/VladimirFibe/Calculator/blob/main/Calculator/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
