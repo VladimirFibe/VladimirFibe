@@ -72,3 +72,6 @@ width="32%" >
 <a href="https://github.com/VladimirFibe/Money">
 <img align="left" alt="Money" height="40px" src="https://github.com/VladimirFibe/Money/blob/main/Money/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
+<a href="https://github.com/VladimirFibe/Uber">
+<img align="left" alt="Uber" height="40px" src="https://github.com/VladimirFibe/Uber/blob/main/Uber/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
