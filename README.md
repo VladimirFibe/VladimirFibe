@@ -29,3 +29,21 @@ width="32%" >
 <a href="https://github.com/VladimirFibe/Xylophone">
 <img align="left" alt="Calculator" height="40px" src="https://github.com/VladimirFibe/Calculator/blob/main/Calculator/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
+<a href="https://github.com/VladimirFibe/Chat">
+<img align="left" alt="Chat" height="40px" src="https://github.com/VladimirFibe/Chat/blob/main/Chat/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
+<a href="https://github.com/VladimirFibe/Workouts">
+<img align="left" alt="Workouts" height="40px" src="https://github.com/VladimirFibe/Workouts/blob/main/Workouts/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
+<a href="https://github.com/VladimirFibe/Workouts">
+<img align="left" alt="Workouts" height="40px" src="https://github.com/VladimirFibe/Workouts/blob/main/Workouts/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
+<a href="https://github.com/VladimirFibe/PerfectEggTimer">
+<img align="left" alt="PerfectEggTimer" height="40px" src="https://github.com/VladimirFibe/PerfectEggTimer/blob/main/PerfectEggTimer/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
+<a href="https://github.com/VladimirFibe/Tipsy">
+<img align="left" alt="Tipsy" height="40px" src="https://github.com/VladimirFibe/Tipsy/blob/main/Tipsy/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
+<a href="https://github.com/VladimirFibe/Destini">
+<img align="left" alt="Destini" height="40px" src="https://github.com/VladimirFibe/Destini/blob/main/Destini/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
