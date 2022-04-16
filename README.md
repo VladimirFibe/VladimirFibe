@@ -78,6 +78,6 @@ width="32%" >
 <a href="https://github.com/VladimirFibe/Dicee">
 <img align="left" alt="Dicee" height="40px" src="https://github.com/VladimirFibe/Dicee/blob/main/Dicee/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
-<a href="https://github.com/VladimirFibe/Tipsy">
-<img align="left" alt="Tipsy" height="40px" src="https://github.com/VladimirFibe/Tipsy/blob/main/Tipsy/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+<a href="https://github.com/VladimirFibe/BMI">
+<img align="left" alt="BMI" height="40px" src="https://github.com/VladimirFibe/BMI/blob/main/BMI/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
