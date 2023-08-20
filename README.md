@@ -54,5 +54,5 @@ width="32%" >
 [![](apps/Workouts.png)](https://github.com/VladimirFibe/Workouts)
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
 [![](apps/Hike.png)](https://github.com/VladimirFibe/Hike)
-[![](apps/Wheather.png)](https://github.com/VladimirFibe/Wheather)
+[![](apps/Weather.png)](https://github.com/VladimirFibe/Weather)
 [![](apps/Netflix.png)](https://github.com/VladimirFibe/Netflix)
