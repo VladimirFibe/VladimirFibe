@@ -45,5 +45,4 @@ width="32%" >
 
 ## iOS Apps
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
-
-
+[![](apps/Calculator.png)](https://github.com/VladimirFibe/Calculator)
