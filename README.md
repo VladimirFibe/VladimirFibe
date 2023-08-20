@@ -47,3 +47,4 @@ width="32%" >
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
 [![](apps/Calculator.png)](https://github.com/VladimirFibe/Calculator)
 [![](apps/Alias.png)](https://github.com/VladimirFibe/Alias)
+[![](apps/Set.png)](https://github.com/VladimirFibe/Set)
