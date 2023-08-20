@@ -50,3 +50,4 @@ width="32%" >
 [![](apps/Set.png)](https://github.com/VladimirFibe/Set)
 [![](apps/iLines.png)](https://github.com/VladimirFibe/iLines)
 [![](apps/TicTacToe.png)](https://github.com/VladimirFibe/TicTacToe)
+[![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
