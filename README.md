@@ -44,11 +44,6 @@ width="32%" >
 
 
 ## iOS Apps
-<a href="https://github.com/VladimirFibe/Xylophone">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/VladimirFibe/Xylophone/blob/main/Xylophone/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
-</a>
-![](https://github.com/VladimirFibe/Xylophone/blob/main/Xylophone/Assets.xcassets/AppIcon.appiconset/40.png)
-
-![](apps/Xylophone.png)
+![](apps/Xylophone.png)(https://github.com/VladimirFibe/Xylophone)
 
 
