@@ -52,3 +52,4 @@ width="32%" >
 [![](apps/TicTacToe.png)](https://github.com/VladimirFibe/TicTacToe)
 [![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
 [![](apps/Workouts.png)](https://github.com/VladimirFibe/Workouts)
+[![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
