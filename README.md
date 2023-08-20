@@ -53,3 +53,4 @@ width="32%" >
 [![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
 [![](apps/Workouts.png)](https://github.com/VladimirFibe/Workouts)
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
+[![](apps/Hike.png)](https://github.com/VladimirFibe/Hike)
