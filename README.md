@@ -9,15 +9,14 @@ width="32%" >
 
 <a href="https://github.com/VladimirFibe">
     <img 
-         align="center" 
+         align="top" 
          width="45%" 
          src="https://github-readme-stats.vercel.app/api?username=VladimirFibe&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true"   
          />
 <a href="https://github.com/VladimirFibe">  
     <img 
-         lign="left" 
-         width="45%" 
-         align="center" 
+         width="50%" 
+         align="top" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirFibe&theme=onedark&hide_border=true" 
          />
 </a>
