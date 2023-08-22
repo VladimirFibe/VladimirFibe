@@ -7,6 +7,10 @@ width="32%" >
 width="32%" > 
 </h2>
 
+![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif) 
+![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif) 
+![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif)
+
 <a href="https://github.com/VladimirFibe">
     <img 
          align="top" 
@@ -22,19 +26,19 @@ width="32%" >
 </a>
 
 ## Frameworks  
-<img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
-<img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
-<img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
-<img align="left" alt="CoreAnimation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreanimation.png?raw=true" />
-<img align="left" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
-<img align="left" alt="SpriteKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/spritekit.png?raw=true" />
-<img align="left" alt="SceneKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/scenekit.png?raw=true" />
-<img align="left" alt="GameplayKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/gameplaykit.png?raw=true" />
-<img align="left" alt="WidgetKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/widgetkit.png?raw=true" />
-<img align="left" alt="CoreAudio" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreaudio.png?raw=true" />
-<img align="left" alt="CloudKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cloudkit.png?raw=true" />
-<img align="left" alt="SiriKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/sirikit.png?raw=true" />
-<img align="left" alt="Firebase" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/firebase.png" />
+![](Assets/cocoatouch.png)
+![](Assets/swiftui.png)
+![](Assets/coredata.png)
+![](Assets/coreanimation.png)
+![](Assets/avfoundation.png)
+![](Assets/spritekit.png)
+![](Assets/scenekit.png)
+![](Assets/gameplaykit.png)
+![](Assets/widgetkit.png)
+![](Assets/coreaudio.png)
+![](Assets/cloudkit.png)
+![](Assets/sirikit.png)
+![](Assets/firebase.png)
 
 ## iOS Tutorials
 [![](apps/TicTacToe.png)](https://github.com/VladimirFibe/TicTacToe)
