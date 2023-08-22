@@ -7,10 +7,6 @@ width="32%" >
 width="32%" > 
 </h2>
 
-![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif) 
-![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif) 
-![](https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif)
-
 <a href="https://github.com/VladimirFibe">
     <img 
          align="top" 
