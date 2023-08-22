@@ -21,9 +21,6 @@ width="32%" >
          />
 </a>
 
-&nbsp;
-&nbsp;  
-
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
@@ -39,9 +36,13 @@ width="32%" >
 <img align="left" alt="SiriKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/sirikit.png?raw=true" />
 <img align="left" alt="Firebase" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/firebase.png" />
 
-&nbsp;
-&nbsp;  
-
+## iOS Tutorials
+[![](apps/TicTacToe.png)](https://github.com/VladimirFibe/TicTacToe)
+[![](apps/Workouts.png)](https://github.com/VladimirFibe/Workouts)
+[![](apps/Hike.png)](https://github.com/VladimirFibe/Hike)
+[![](apps/Weather.png)](https://github.com/VladimirFibe/Weather)
+[![](apps/Netflix.png)](https://github.com/VladimirFibe/Netflix)
+[![](apps/MakeItSo.png)](https://github.com/VladimirFibe/MakeItSo)
 
 ## iOS Apps
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
@@ -49,11 +50,5 @@ width="32%" >
 [![](apps/Alias.png)](https://github.com/VladimirFibe/Alias)
 [![](apps/Set.png)](https://github.com/VladimirFibe/Set)
 [![](apps/iLines.png)](https://github.com/VladimirFibe/iLines)
-[![](apps/TicTacToe.png)](https://github.com/VladimirFibe/TicTacToe)
 [![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
-[![](apps/Workouts.png)](https://github.com/VladimirFibe/Workouts)
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
-[![](apps/Hike.png)](https://github.com/VladimirFibe/Hike)
-[![](apps/Weather.png)](https://github.com/VladimirFibe/Weather)
-[![](apps/Netflix.png)](https://github.com/VladimirFibe/Netflix)
-[![](apps/MakeItSo.png)](https://github.com/VladimirFibe/MakeItSo)
