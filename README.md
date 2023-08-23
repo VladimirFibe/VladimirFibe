@@ -54,4 +54,4 @@ width="32%" >
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
 
 ## Temp
-[![](Assets/swiftui.png)]([https://github.com/VladimirFibe/TicTacToe](https://github.com/VladimirFibe/Landmarks))
+[![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
