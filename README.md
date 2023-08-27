@@ -65,7 +65,7 @@ width="32%" >
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Fructus)
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Petstagram)
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Memorize)
-[![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
+[![](Assets/swiftui.png)](https://github.com/VladimirFibe/Dodo)
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
