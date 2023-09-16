@@ -52,6 +52,7 @@ width="32%" >
 [![](apps/iLines.png)](https://github.com/VladimirFibe/iLines)
 [![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
+[![](apps/Today.png)](https://github.com/VladimirFibe/Today)
 
 ## Temp
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
