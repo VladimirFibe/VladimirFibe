@@ -43,6 +43,8 @@ width="32%" >
 [![](apps/Weather.png)](https://github.com/VladimirFibe/Weather)
 [![](apps/Netflix.png)](https://github.com/VladimirFibe/Netflix)
 [![](apps/MakeItSo.png)](https://github.com/VladimirFibe/MakeItSo)
+[![](apps/Today.png)](https://github.com/VladimirFibe/Today)
+[![](apps/News.png)](https://github.com/VladimirFibe/News)
 
 ## iOS Apps
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
@@ -52,7 +54,6 @@ width="32%" >
 [![](apps/iLines.png)](https://github.com/VladimirFibe/iLines)
 [![](apps/CookBook.png)](https://github.com/VladimirFibe/CookBook)
 [![](apps/MovieApp.png)](https://github.com/VladimirFibe/MovieApp)
-[![](apps/Today.png)](https://github.com/VladimirFibe/Today)
 
 ## Temp
 [![](Assets/swiftui.png)](https://github.com/VladimirFibe/Landmarks)
