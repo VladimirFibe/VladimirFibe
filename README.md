@@ -45,6 +45,7 @@ width="32%" >
 [![](apps/MakeItSo.png)](https://github.com/VladimirFibe/MakeItSo)
 [![](apps/Today.png)](https://github.com/VladimirFibe/Today)
 [![](apps/News.png)](https://github.com/VladimirFibe/News)
+[![](apps/Airbnb.png)](https://github.com/VladimirFibe/Airbnb)
 
 ## iOS Apps
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
