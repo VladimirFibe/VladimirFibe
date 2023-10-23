@@ -15,7 +15,7 @@ width="32%" >
          />
 <a href="https://github.com/VladimirFibe">  
     <img 
-         width="55%" 
+         width="54%" 
          align="top" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirFibe&theme=onedark&hide_border=true" 
          />
