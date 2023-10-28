@@ -41,4 +41,5 @@ width="32%" >
 [![](apps/WhatsApp.png)](https://github.com/VladimirFibe/WhatsApp)
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
 [![](apps/MyToDos.png)](https://github.com/VladimirFibe/MyToDos)
+[![](apps/GitFollowers.png)](https://github.com/VladimirFibe/GitFollowers)
 
