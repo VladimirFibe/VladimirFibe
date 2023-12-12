@@ -37,9 +37,8 @@ width="32%" >
 ![](Assets/firebase.png)
 
 ## iOS Apps
-[![](apps/Airbnb.png)](https://github.com/VladimirFibe/Airbnb)
 [![](apps/WhatsApp.png)](https://github.com/VladimirFibe/WhatsApp)
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
-[![](apps/MyToDos.png)](https://github.com/VladimirFibe/MyToDos)
+[![](apps/Weathery.png)](https://github.com/VladimirFibe/Weathery)
 [![](apps/GitFollowers.png)](https://github.com/VladimirFibe/GitFollowers)
 
