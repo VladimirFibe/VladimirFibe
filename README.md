@@ -36,9 +36,8 @@ width="32%" >
 ![](Assets/sirikit.png)
 ![](Assets/firebase.png)
 
-WhatsApp/blob/develop/img/icon.png
 ## iOS Apps
-[![](WhatsApp/img/icon.png)](https://github.com/VladimirFibe/WhatsApp)
+[![](apps/WhatsApp.png)](https://github.com/VladimirFibe/WhatsApp)
 [![](apps/Xylophone.png)](https://github.com/VladimirFibe/Xylophone)
 [![](apps/Weathery.png)](https://github.com/VladimirFibe/Weathery)
 [![](apps/GitFollowers.png)](https://github.com/VladimirFibe/GitFollowers)
